@@ -28,7 +28,7 @@ print("✅ 向量库建立完成！")
 
 # 3. 初始化大模型（⚠️ 替换成新生成的 Key）
 client = OpenAI(
-    api_key="sk-dd2f5b112317417b89e2d457f52f3c5c", 
+    api_key="你的API-KEY", 
     base_url="https://api.deepseek.com/v1"
 )
 

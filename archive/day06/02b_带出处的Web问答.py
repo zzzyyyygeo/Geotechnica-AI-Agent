@@ -3,7 +3,7 @@
 Day6 交付物：带出处的 Web 问答（Gradio 版）
 
 运行：
-    $env:DEEPSEEK_API_KEY = "sk-76080c79141043aab5cfb8c2d3360cef"
+    $env:DEEPSEEK_API_KEY = "你的API-KEY"
     python 02b_带出处的Web问答.py
 然后浏览器打开它打印的地址（一般是 http://127.0.0.1:7860）
 

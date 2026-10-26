@@ -10,8 +10,8 @@
 你的两个 DeepSeek API Key 已经**明文写在 6 个 .py 文件里**：
 
 ```
-sk-4c394acbd22f40ecb08edfb36e5bfc82      （day01.py / day02_chat.py/key.py）
-sk-dd2f5b112317417b89e2d457f52f3c5c      （day04 / day05 多个文件）
+你的API-KEY     （day01.py / day02_chat.py/key.py）
+你的API-KEY      （day04 / day05 多个文件）
 ```
 
 **动作：**

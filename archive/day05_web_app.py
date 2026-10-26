@@ -24,7 +24,7 @@ embeddings = HuggingFaceEmbeddings(model_name="BAAI/bge-small-zh-v1.5")
 vectorstore = Chroma(persist_directory="./chroma_db", embedding_function=embeddings)
 
 client = OpenAI(
-    api_key="sk-dd2f5b112317417b89e2d457f52f3c5c", # ⚠️ 填入最新的 Key
+    api_key="你的API-KEY", # ⚠️ 填入最新的 Key
     base_url="https://api.deepseek.com/v1"
 )
 
