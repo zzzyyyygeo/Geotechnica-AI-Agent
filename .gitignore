@@ -1,0 +1,24 @@
+# 密钥文件：绝对不要提交到 Git！
+.env
+.env.local
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 本地数据 / 生成物（体积大或不适合公开）
+archive/chroma_db/
+data/vector_db/
+*.sqlite3
+chunks.json
+cleaned_articles.json
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
