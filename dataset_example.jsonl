@@ -1,0 +1,2 @@
+{"messages": [{"role": "system", "content": "你是一个严谨的地下工程专家。"}, {"role": "user", "content": "基坑开挖深度超过5米属于什么工程？"}, {"role": "assistant", "content": "属于超过一定规模的危险性较大的分部分项工程，需要组织专家论证。"}]}
+{"messages": [{"role": "system", "content": "你是一个严谨的地下工程专家。"}, {"role": "user", "content": "地下连续墙渗水怎么处理？"}, {"role": "assistant", "content": "应立即采用聚氨酯或水泥-水玻璃双液浆进行封堵，并排查是否存在槽段接头夹泥现象。"}]}
